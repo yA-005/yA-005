@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yasharjitwar
 - 👀 I’m interested in Cloud Computing, IaaC and System Desgin
-- 🌱 I’m currently learning and perfecting my skills as an Iaac developer
+- 🌱 I’m currently learning and perfecting my skills as an Full Stack Developer developer
 - 📫 How to reach me yasharjitwar05@outlook.com or in LinkedIn as yasharjitwar
 - It's good to see you !!
 
